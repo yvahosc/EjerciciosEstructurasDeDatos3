@@ -32,7 +32,7 @@ public class EjercicioColasMain {
     }
 
     public static void mostrarMenu(){
-        System.out.println("\nGestión de empleados.");
+        System.out.println("\nGestión de clientes.");
         System.out.println("1. Agregar un cliente a la cola.");
         System.out.println("2. Mostrar todos los clientes en cola.");
         System.out.println("3. Atender siguiente cliente.");
